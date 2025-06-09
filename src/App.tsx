@@ -1,9 +1,10 @@
+import Login from "./components/Auth/Login";
 
 
 function App() {
   return (
     <div className="App">
-    <h1>real time Board</h1>
+    <Login />
     </div>
   );
 }
